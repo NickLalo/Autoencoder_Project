@@ -1,0 +1,2 @@
+Non Essential Files is a place for files that are not part of the main machine learning training/testing but are still
+an important part of the project.

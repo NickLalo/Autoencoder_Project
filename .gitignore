@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# added by Nick
+.DS_store
+.idea/
+tmp*
+*.xlsx
+*.pptx
+~$*
+__pycache__
+delete_me_later.py
+
